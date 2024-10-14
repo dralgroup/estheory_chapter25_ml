@@ -1,14 +1,11 @@
-# MLatom tutorials for the CZS Summer School
+# Case studies for Chapter 25 "Machine Learning Electronic Structure Methods" of Handbook of Electronic Structure Theory
 
-This is the collection of the [MLatom](https://github.com/dralgroup/mlatom) tutorials for the [CZS Summer school 2024](https://aimat.iti.kit.edu/ml4chem2024.php) in Karlsruhe. MLatom is a general purpose software platform for AI-enhanced computational chemistry. MLatom has an extensive documentation with many other useful tutorials: https://xacs.xmu.edu.cn/docs/mlatom/.
-
-## Lecture notes
-Pavlo O. Dral's [lecture notes](http://dr-dral.com/wp-content/uploads/2024/09/CZS_Dral_wm.pdf) related to the tutorials.
+This is the collection of the case studies with [MLatom](https://github.com/dralgroup/mlatom), which are available in MLatom tutorials and were also presented in the [CZS Summer school 2024](https://aimat.iti.kit.edu/ml4chem2024.php) in September, Karlsruhe. MLatom is a general purpose software platform for AI-enhanced computational chemistry. MLatom has an extensive documentation with many other useful tutorials: https://xacs.xmu.edu.cn/docs/mlatom/.
 
 ## How to run the tutorials
 - not recommended but if you insist: you can run the notebooks on [Google colab](https://drive.google.com/drive/folders/18KMn1LW5pXiqC18MX6OBGE9Fyy0DMbZF?usp=sharing).
 - strongly recommended to run the tutorials on the XACS cloud where everything is installed: http://XACScloud.com (registration and basic use is free). After the registration, we will give you access to the Jupyter Lab. The Jupyter notebooks will be available in your home folder: ``jupyter_examples/karlsruhe2024``. Click on 'Jupyter Lab' on the left menu bar, then on 'Launch Server', and finally on 'Connect'.
-- you can also get support on XACS Slack workspace: https://join.slack.com/t/xacs-support/shared_invite/zt-1gm1lpn68-pReQhfYGu813eCqwmvdGvA (``#karlsruhe2024`` channel)
+- you can also get support on XACS Slack workspace: https://join.slack.com/t/xacs-support/shared_invite/zt-1gm1lpn68-pReQhfYGu813eCqwmvdGvA.
 
 ## Tutorials
 
